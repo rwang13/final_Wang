@@ -1,0 +1,9 @@
+/*This is the CSS sheet for week13_html_bootstrap.html.*/
+
+.accordion-button {
+	color: steelblue;
+	font-weight: bold;
+}
+button {
+	margin-left: 10px;
+}
