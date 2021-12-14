@@ -1,2 +1,2 @@
 # final_Wang
-Final project: Franklin Wang
+JNL221 final project: Franklin Wang
